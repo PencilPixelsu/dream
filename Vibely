@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+ <meta name="viewpoint"cotent="width=device-width,initial-scale=1.0">
+<title>Vibely I The Social app</title>
+ <link rel="stylesheet"href="style.css">
+</head>
+<body>
+ <header>
+ <nav>
+     <ul>
+       <li><a href="#">Home</a></li>
+       <li><a href="#">Explore</a></li>
+       <li><a href="#">Messages</a></li>
+       <li><a href="#">Profile</a></li>
+     </ul>
+    </nav>
+   </header>
+
+   <section id="hero">
+    <h1>Vibely</h1>
+    <h2>The social App</h2> 
+    <p>Connect with friends and family with vibely.Share your thoughts and experiences,and discover new people and ideas.</p>
+    <a href="#"
+class="cta-btn"Join now</a>
+  </section>
+
+
+  <section id=
+    <h1>Vibely</h1>
+    <h2>The Social App</h2>
+    <p>Connect with friends and family with Vibely.Share your thoughts and experiences,and discover new people and ideas.</p>
+    <a href="#"
+   class="cta-btn">Join now</a></section>
+
+   <section id="features">
+    <div class="feature">
+     <img src="images/feature-1.png"alt="">
+     <h3>Connect with friends and family</h3>
+     <p>Stay connected with the people you care about most with Vibely.Share photos,videos,and updates with ease.</p>
+     </div>
+     <div class="feature">
+      <img src="images/feuture.2png"alt="">
+      <h3>Discover new people and ideas</h3>
+      <p>find new friends,join groups,and discover new ideas with Vibely's powerfull search and discovery tools.</p>
+      <p>Connect with people who share your interests by joining communities on Vibely.Discuss your passions,organize events,make new friends</p>
+      </div>
+     </section>
+     <footer>
+       <p>&copy;Vibely 2023</p> 
+   
+      </body>
+      </html>
+
+
+
+
+
+
+
+
+
